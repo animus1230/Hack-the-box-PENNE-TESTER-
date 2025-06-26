@@ -1,9 +1,9 @@
-Kevin “Anonymous”  
+ “Anonymous”  
 Junior Pentester – Cyberbezpieczeństwo  
 
 =====================================================
 🎯 Cel życiowy  
-Jestem Kevin, mam 17 lat i moim głównym celem zawodowym jest praca w branży cyberbezpieczeństwa jako Pentester. Już teraz działam na poziomie Junior Pentestera, a moje umiejętności pozwoliłyby mi skutecznie realizować testy penetracyjne w różnych środowiskach.
+Jestem i moim głównym celem zawodowym jest praca w branży cyberbezpieczeństwa jako Pentester. Już teraz działam na poziomie Junior Pentestera, a moje umiejętności pozwoliłyby mi skutecznie realizować testy penetracyjne w różnych środowiskach.
 
 🛠️ Umiejętności i narzędzia (zrealizowane)  
 • Rozpoznanie sieci i systemu  
@@ -40,4 +40,4 @@ Jestem zmotywowany, szybko się uczę i z pasją dążę do doskonałości.
 =====================================================
 📫 Kontakt  
 GitHub:  https://github.com/animus1230 
-Email: bibip0662@gmail.com
+Email: pikola93846@gmail.com
